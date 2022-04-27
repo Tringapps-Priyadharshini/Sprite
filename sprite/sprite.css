@@ -1,0 +1,49 @@
+.spriteicon{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    max-width:fit-content;
+    max-height: fit-content;
+    padding:20px;
+}
+ul li{
+    list-style-type: none;
+    float:left;
+    margin-left: 200px;
+    margin-right:400px;
+}
+.sprite1{
+    width:650px;
+    height:600px;
+    background-image: url('icon1.jpg');
+    background-repeat: no-repeat;
+}
+#spriteicon1{
+    margin-left: 1000px;
+    margin-bottom:65px;
+    width:90px;
+    height:90px;
+    background: url('icon1.jpg') 0 0;
+}
+#spriteicon2{
+    margin-left: 1000px;
+    margin-bottom:65px;
+    width:100px;
+    height:100px;
+    background: url('icon1.jpg') -120px -160px;
+}
+#spriteicon3{
+    margin-left: 1000px;
+    margin-bottom:65px;
+    width:100px;
+    height:100px;
+    background: url('icon1.jpg') -381px -317px;
+}
+#spriteicon4{
+    margin-left: 1000px;
+    margin-bottom:65px;
+    width:100px;
+    height:100px;
+    background: url('icon1.jpg')  -509px -489px;
+} 
